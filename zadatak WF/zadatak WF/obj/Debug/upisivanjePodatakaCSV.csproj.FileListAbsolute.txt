@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\zadatak WF\zadatak WF\bin\Debug\zadatak WF.exe.config
+C:\Users\Ucenik\source\repos\zadatak WF\zadatak WF\bin\Debug\zadatak WF.exe
+C:\Users\Ucenik\source\repos\zadatak WF\zadatak WF\bin\Debug\zadatak WF.pdb
+C:\Users\Ucenik\source\repos\zadatak WF\zadatak WF\obj\Debug\upisivanjePodatakaCSV.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\zadatak WF\zadatak WF\obj\Debug\zadatak_WF.Form1.resources
+C:\Users\Ucenik\source\repos\zadatak WF\zadatak WF\obj\Debug\zadatak_WF.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\zadatak WF\zadatak WF\obj\Debug\upisivanjePodatakaCSV.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\zadatak WF\zadatak WF\obj\Debug\upisivanjePodatakaCSV.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\zadatak WF\zadatak WF\obj\Debug\zadatak WF.exe
+C:\Users\Ucenik\source\repos\zadatak WF\zadatak WF\obj\Debug\zadatak WF.pdb
